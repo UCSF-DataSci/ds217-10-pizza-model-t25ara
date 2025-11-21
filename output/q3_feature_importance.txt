@@ -1,0 +1,9 @@
+      feature  xgb_importance
+0      MedInc        0.567666
+5    AveOccup        0.154247
+7   Longitude        0.074295
+1    HouseAge        0.067540
+6    Latitude        0.057086
+2    AveRooms        0.053436
+3   AveBedrms        0.014782
+4  Population        0.010947
